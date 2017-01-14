@@ -1,0 +1,21 @@
+﻿{
+  "appName": {
+    "message": "FaceBookAssistant"
+  },
+  "appDesc": {
+    "message": "Facebook messenger vocal reminder."
+  }
+  ,
+  "like": {
+    "message": "gave you a thumbs-up sign."
+  },
+  "emoji": {
+    "message": "sent you a emoji."
+  },
+  "file": {
+    "message": "sent you a file."
+  },
+  "say": {
+    "message": "said---"
+  }
+}

@@ -1,0 +1,20 @@
+﻿{
+  "appName": {
+    "message": "FaceBookAssistant"
+  },
+  "appDesc": {
+    "message": "臉書飛書信語音助手。"
+  },
+  "like": {
+    "message": "給你 1 個 讚。"
+  },
+  "emoji": {
+    "message": "傳送了 1 個 表情符號。"
+  },
+  "file": {
+    "message": "傳送了 1 個 檔案。"
+  },
+  "say": {
+    "message": "說---"
+  }
+}

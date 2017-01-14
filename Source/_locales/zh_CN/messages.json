@@ -1,0 +1,20 @@
+﻿{
+  "appName": {
+    "message": "FaceBookAssistant"
+  },
+  "appDesc": {
+    "message": "脸书飞书信语音助手。"
+  },
+  "like": {
+    "message": "给你1个赞。"
+  },
+  "emoji": {
+    "message": "传送了1个表情符号。"
+  },
+  "file": {
+    "message": "传送了1个档案。"
+  },
+  "say": {
+    "message": "说---"
+  }
+}
